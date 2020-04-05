@@ -1,0 +1,54 @@
+
+h1,h2,h3,h4,h5{
+  font-family: 'Cormorant Bold', 'Merriweather', serif;
+}
+
+  h1 {
+    color: #222E50;
+}
+
+  p{
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+
+.button{
+  background-color: #AF6254;
+}
+
+.button:hover{
+  background-color: #BB796E;
+}
+
+a{
+  color: #af6254;
+}
+
+a:hover{
+  color: #BB796E;
+}
+
+.portfolio-me .thumbnail {
+    border-radius: 50%;
+}
+
+.portfolio-me{
+  background: #222E50;
+}
+
+  .portfolio-me a{
+    color: #af6254;
+  }
+
+  .portfolio-me a:hover{
+    color: #BB796E;
+  }
+
+.error-message {
+  margin: 0;
+  padding: 40px 50px 30px;
+  border-bottom: 1px #eaeaea solid;
+  overflow-wrap: break-word;
+}
+
+
+
