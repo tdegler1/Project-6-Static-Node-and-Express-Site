@@ -6,12 +6,12 @@ The data about (my) featured projects are stored in a JSON file.
 Pug templates are filled out to utilize the JSON file to generate the markup that is ultimately displayed in the browser.
 
 Node.js and Express are used to do the following:
-  Import the required dependencies
-  Link the JSON with the Pug templates
-  Set up routes to handle requests
-  Set up the middleware to utilize static files like CSS
-  Handle errors
-  Set up a server to serve the project
+* Import the required dependencies
+* Link the JSON with the Pug templates
+* Set up routes to handle requests
+* Set up the middleware to utilize static files like CSS
+* Handle errors
+* Set up a server to serve the project
   
   Each project has static images as well as links for live viewing and the Github repository.
   You'll also learn a little bit about me on the About page.
